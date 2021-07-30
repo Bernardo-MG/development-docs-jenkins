@@ -5,4 +5,5 @@
 ## Docker
 
 * [Agent](docker/agent.md)
+* [Running images](docker/running-images.md)
 
